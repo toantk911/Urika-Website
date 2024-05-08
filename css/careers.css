@@ -32,8 +32,8 @@ body{
 }
 
 .header .logo img{
-    width: 20%;
-    height: 3rem;
+    /* width: 20%; */
+    height: 5rem;
     top: 0;
     left: 0;
 }
@@ -449,8 +449,8 @@ body{
     }
 
     .header .logo img{
-        width: 20%;
-        height: 3rem;
+        /* width: 20%; */
+        height: 4rem;
         top: 0;
         left: 0;
         background-size: cover;
